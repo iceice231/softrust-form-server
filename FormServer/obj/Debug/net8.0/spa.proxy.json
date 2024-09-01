@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\leonp\\RiderProjects\\FormServer\\FormServer",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
